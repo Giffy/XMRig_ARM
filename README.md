@@ -1,2 +1,1 @@
-# XMRig_ARM
-Compiler XMRig miner for ARM platform
+# Compiled XMRig miner for ARM platform
