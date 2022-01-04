@@ -20,3 +20,6 @@ sudo ./xmrig-notls -o fr.moneroocean.stream:10001 -u 4XX6uXXf6XX7mXXJ2XXMFXX5eXX
 curl https://raw.githubusercontent.com/Giffy/XMRig_ARM/main/XMRig6.16.2-mo2/xmrig-notls -o xmrig-notls
   
 chmod 700 xmrig-notls
+
+## Note:
+Benchmark is not working as previous versions
