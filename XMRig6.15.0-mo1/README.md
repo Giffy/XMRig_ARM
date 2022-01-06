@@ -18,5 +18,7 @@ Source code : https://github.com/MoneroOcean/xmrig/releases/tag/v6.15.0-mo1
 ### Download it directly to the device using:
   
 curl https://raw.githubusercontent.com/Giffy/XMRig_ARM/main/XMRig6.15.0-mo1/xmrig-notls.tar.gz -o xmrig.tar.gz
+  
 tar -xzvf xmrig.tar.gz
+  
 chmod 700 xmrig-notls
