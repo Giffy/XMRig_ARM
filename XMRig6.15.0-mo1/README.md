@@ -22,3 +22,4 @@ curl https://raw.githubusercontent.com/Giffy/XMRig_ARM/main/XMRig6.15.0-mo1/xmri
 tar -xzvf xmrig.tar.gz
   
 chmod 700 xmrig-notls
+
