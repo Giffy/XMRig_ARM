@@ -17,6 +17,10 @@ sudo ./xmrig-notls -o fr.moneroocean.stream:10001 -u 4XX6uXXf6XX7mXXJ2XXMFXX5eXX
   
 ### Download it directly to the device using:
   
-curl https://raw.githubusercontent.com/Giffy/XMRig_ARM/main/XMRig6.16.2/xmrig-notls -o xmrig-notls
-  
+curl https://raw.githubusercontent.com/Giffy/XMRig_ARM/main/XMRig6.16.2/xmrig-notls.tar.gz -o xmrig.tar.gz
+
+tar xvf xmrig.tar.gz  
+
 chmod 700 xmrig-notls
+
+sudo ./xmrig-notls -o fr.moneroocean.stream:10001 -u << YOUR_WALLET >> -k --rig-id device1 
