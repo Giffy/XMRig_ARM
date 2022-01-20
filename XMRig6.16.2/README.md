@@ -23,4 +23,4 @@ tar xvf xmrig.tar.gz
 
 chmod 700 xmrig-notls
 
-sudo ./xmrig-notls -o fr.moneroocean.stream:10001 -u <<YOUR_WALLET>>  -k --rig-id device1 
+sudo ./xmrig-notls -o fr.moneroocean.stream:10001 -u <YOUR_WALLET>  -k --rig-id device1 
