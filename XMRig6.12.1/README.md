@@ -1,4 +1,4 @@
-# Compiled MoneroOcean XMRig miner for ARM 64bits platform
+# Compiled MoneroOcean XMRig miner for ARM 32 & 64bits platform
 
 Oficial XMRig fork released 02 Dec 2021
 
